@@ -2,10 +2,10 @@
 #
 # Description: A Bench Script by Ayahn
 #
-# Copyright (C) 2021 - 2022 Afra IT <Matialz7@gmail.com>
-# Thanks: LookBack <Matialz7@gmail.com>
+# Copyright (C) 2021 - 2022 Afra IT <afraitteam@gmail.com>
+# Thanks: LookBack <afraitteam@gmail.com>
 # URL: https://afra-it.ir
-# https://github.com/Matialz7/bench/blob/master/bench.sh
+# https://github.com/AfraItTeam/LinuxCheck/blob/master/bench.sh
 #
 trap _exit INT QUIT TERM
 
