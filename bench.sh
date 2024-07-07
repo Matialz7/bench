@@ -227,8 +227,8 @@ install_speedtest() {
 }
 
 print_intro() {
-    echo "-------------------- A Bench.sh Script By Ayhan -------------------"
-    echo " Version            : $(_green v2022-06-01)"
+    echo "-------------------- A Bench.sh Script By Matialz -------------------"
+    echo " Version            : $(_green v2024-07-07)"
     echo " Usage              : $(_red "wget -qO- bench.sh | bash")"
 }
 
